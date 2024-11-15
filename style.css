@@ -1,0 +1,30 @@
+ *{
+   box-sizing: border-box;
+   font-family: sans-serif;
+ }
+
+ body{background-color:rgb(27, 26, 26) ;
+   margin: 0px;
+ }
+ header{width: 100%; 
+        background-color: rgb(242, 201, 222); color: rgb(226, 43, 134); padding: 5px;}
+ main {background-color: rgb(253, 252, 250); color: rgb(121, 86, 63); width: 400px; margin: auto; padding: 25px;}
+ footer {background-color: #ffeedb; color: #ffeedb; padding: 10px;}
+ div {margin-top: 10px; padding: 10px; border-bottom: 1px solid rosybrown;}
+ .posteo{background-color: antiquewhite;}
+ .anuncio{background-color: #b6ccf7;}
+ #foto-perfil{border-radius: 50%;height: 100px;width: 100px;}
+ img{width: 100%;}
+ #nombre-usuario{font-size:20px;
+ border-bottom:  1px solid black; 
+ font-family:  "Lobster", sans-serif;
+ font-weight: bold;}
+ h2{text-align: center;
+ font-size: 30px;}
+#titulo-app{ 
+            font-size: 40px; 
+            text-aling: center;
+             font-family: "Quicksand", sans-serif;
+      }
+
+
